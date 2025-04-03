@@ -24,7 +24,7 @@ nav{
 }
 
 main{
-    background-color: rgba(4, 248, 97, 0.986);
+    background-color: rgb(176, 234, 247);
     grid-area: main;
 }
 footer{
