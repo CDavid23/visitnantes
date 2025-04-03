@@ -40,7 +40,7 @@ aside{
     position: sticky;
     align-self: start;
     height: calc(100vh - var(--navbarheight));
-    background-color: rgb(214, 123, 19);
+    background-color: rgb(252, 252, 252);
     grid-area: sidebar;
     display: grid;
     grid-template-columns: none;
