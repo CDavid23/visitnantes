@@ -6,7 +6,7 @@
     padding: 0;
 }
 body{
-    padding: 10px;
+    
     min-height: 100vh;
     display: grid;
     grid-template-columns: 300px 1r;
@@ -25,6 +25,7 @@ nav{
 }
 
 main{
+    padding: 10px;
     background-color: rgb(176, 234, 247);
     grid-area: main;
 }
