@@ -10,7 +10,7 @@ body{
     min-height: 100vh;
     display: grid;
     grid-template-columns: 300px 1fr;
-    grid-template-columns: auto 1fr auto;
+    /* grid-template-columns: auto 1fr auto; */
     grid-template-areas: 
     "navbar navbar"
     "sidebar main"
@@ -213,6 +213,7 @@ aside{
 .Landmarks:hover{
     background-color: rgb(105, 104, 104)
 }
+
 
 
 
